@@ -12,7 +12,9 @@ dzen.ru
 vk.com
 id.vk.com
 login.vk.com
+vkvideo.ru
 ok.ru
+rutube.ru
 
 yandex.ru
 ya.ru
