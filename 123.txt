@@ -4,6 +4,7 @@ gosuslugi.ru
 esia.gosuslugi.ru
 gov.ru
 dnevnik.ru
+login.dnevnik.ru
 avito.ru
 ozon.ru
 wildberries.ru
@@ -19,6 +20,11 @@ rutube.ru
 yandex.ru
 ya.ru
 mail.ru
+smtp.yandex.ru
+smtp.yandex.com
+imap.yandex.ru
+imap.yandex.com
+
 
 direct.yandex.ru
 mail.yandex.ru
