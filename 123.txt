@@ -6,6 +6,7 @@ gov.ru
 dnevnik.ru
 login.dnevnik.ru
 avito.ru
+avito.st
 ozon.ru
 wildberries.ru
 hh.ru
@@ -34,6 +35,18 @@ contacts.yandex.ru
 
 passport.yandex.ru
 id.yandex.ru
+
+tbank.ru
+id.tbank.ru
+smo.tbank.ru
+sme.tbank.ru
+business.tbank.ru
+
+reg.ru
+nic.ru 
+webnames.ru 
+sweb.ru
+webhost1.ru
 
 admin.yandex.ru
 connect.yandex.ru
