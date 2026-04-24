@@ -10,9 +10,13 @@ wildberries.ru
 hh.ru
 dzen.ru
 vk.com
+id.vk.com
+login.vk.com
+ok.ru
 
 yandex.ru
 ya.ru
+mail.ru
 
 direct.yandex.ru
 mail.yandex.ru
