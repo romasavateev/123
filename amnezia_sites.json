@@ -1,422 +1,562 @@
 [
     {
-        "hostname": "gosuslugi.ru"
+        "hostname": "gosuslugi.ru",
+        "ip": "213.59.253.7"
     },
     {
-        "hostname": "esia.gosuslugi.ru"
+        "hostname": "esia.gosuslugi.ru",
+        "ip": "109.207.2.205"
     },
     {
-        "hostname": "gov.ru"
+        "hostname": "gov.ru",
+        "ip": "159.253.5.146"
     },
     {
-        "hostname": "dnevnik.ru"
+        "hostname": "dnevnik.ru",
+        "ip": "95.213.165.2"
     },
     {
-        "hostname": "login.dnevnik.ru"
+        "hostname": "login.dnevnik.ru",
+        "ip": "95.213.165.2"
     },
     {
-        "hostname": "avito.ru"
+        "hostname": "avito.ru",
+        "ip": "176.114.122.24"
     },
     {
-        "hostname": "avito.st"
+        "hostname": "avito.st",
+        "ip": "31.31.196.242"
     },
     {
-        "hostname": "ozon.ru"
+        "hostname": "ozon.ru",
+        "ip": "185.73.193.68"
     },
     {
-        "hostname": "wildberries.ru"
+        "hostname": "wildberries.ru",
+        "ip": "195.161.52.38"
     },
     {
-        "hostname": "aliexpress.ru"
+        "hostname": "aliexpress.ru",
+        "ip": "146.185.184.110"
     },
     {
-        "hostname": "hh.ru"
+        "hostname": "hh.ru",
+        "ip": "194.54.13.76"
     },
     {
-        "hostname": "dzen.ru"
+        "hostname": "dzen.ru",
+        "ip": "77.88.38.127"
     },
     {
-        "hostname": "vk.com"
+        "hostname": "vk.com",
+        "ip": "87.240.132.78"
     },
     {
-        "hostname": "id.vk.com"
+        "hostname": "id.vk.com",
+        "ip": "87.240.132.79"
     },
     {
-        "hostname": "login.vk.com"
+        "hostname": "login.vk.com",
+        "ip": "87.240.132.83"
     },
     {
-        "hostname": "vkvideo.ru"
+        "hostname": "vkvideo.ru",
+        "ip": "87.240.132.80"
     },
     {
-        "hostname": "ok.ru"
+        "hostname": "ok.ru",
+        "ip": "217.20.147.94"
     },
     {
-        "hostname": "rutube.ru"
+        "hostname": "rutube.ru",
+        "ip": "178.248.239.25"
     },
     {
-        "hostname": "rp5.ru"
+        "hostname": "rp5.ru",
+        "ip": "88.82.81.222"
     },
     {
-        "hostname": "yandex.ru"
+        "hostname": "yandex.ru",
+        "ip": "77.88.55.66"
     },
     {
-        "hostname": "ya.ru"
+        "hostname": "ya.ru",
+        "ip": "87.250.250.242"
     },
     {
-        "hostname": "mail.ru"
+        "hostname": "mail.ru",
+        "ip": "94.100.180.188"
     },
     {
-        "hostname": "smtp.yandex.ru"
+        "hostname": "smtp.yandex.ru",
+        "ip": "77.88.55.112"
     },
     {
-        "hostname": "smtp.yandex.com"
+        "hostname": "smtp.yandex.com",
+        "ip": "77.88.55.111"
     },
     {
-        "hostname": "imap.yandex.ru"
+        "hostname": "imap.yandex.ru",
+        "ip": "77.88.55.114"
     },
     {
-        "hostname": "imap.yandex.com"
+        "hostname": "imap.yandex.com",
+        "ip": "77.88.55.115"
     },
     {
-        "hostname": "direct.yandex.ru"
+        "hostname": "direct.yandex.ru",
+        "ip": "77.88.55.77"
     },
     {
-        "hostname": "mail.yandex.ru"
+        "hostname": "mail.yandex.ru",
+        "ip": "77.88.55.66"
     },
     {
-        "hostname": "disk.yandex.ru"
+        "hostname": "disk.yandex.ru",
+        "ip": "87.250.250.43"
     },
     {
-        "hostname": "calendar.yandex.ru"
+        "hostname": "calendar.yandex.ru",
+        "ip": "87.250.250.47"
     },
     {
-        "hostname": "contacts.yandex.ru"
+        "hostname": "contacts.yandex.ru",
+        "ip": "87.250.250.49"
     },
     {
-        "hostname": "passport.yandex.ru"
+        "hostname": "passport.yandex.ru",
+        "ip": "87.250.250.50"
     },
     {
-        "hostname": "id.yandex.ru"
+        "hostname": "id.yandex.ru",
+        "ip": "87.250.250.52"
     },
     {
-        "hostname": "tbank.ru"
+        "hostname": "tbank.ru",
+        "ip": "92.53.92.24"
     },
     {
-        "hostname": "id.tbank.ru"
+        "hostname": "id.tbank.ru",
+        "ip": "92.53.92.26"
     },
     {
-        "hostname": "smo.tbank.ru"
+        "hostname": "smo.tbank.ru",
+        "ip": "92.53.92.27"
     },
     {
-        "hostname": "sme.tbank.ru"
+        "hostname": "sme.tbank.ru",
+        "ip": "92.53.92.28"
     },
     {
-        "hostname": "business.tbank.ru"
+        "hostname": "business.tbank.ru",
+        "ip": "92.53.92.29"
     },
     {
-        "hostname": "reg.ru"
+        "hostname": "reg.ru",
+        "ip": "31.31.196.242"
     },
     {
-        "hostname": "nic.ru"
+        "hostname": "nic.ru",
+        "ip": "194.58.112.138"
     },
     {
-        "hostname": "webnames.ru"
+        "hostname": "webnames.ru",
+        "ip": "212.193.253.43"
     },
     {
-        "hostname": "sweb.ru"
+        "hostname": "sweb.ru",
+        "ip": "95.213.149.187"
     },
     {
-        "hostname": "webhost1.ru"
+        "hostname": "webhost1.ru",
+        "ip": "95.213.154.171"
     },
     {
-        "hostname": "admin.yandex.ru"
+        "hostname": "admin.yandex.ru",
+        "ip": "77.88.55.78"
     },
     {
-        "hostname": "connect.yandex.ru"
+        "hostname": "connect.yandex.ru",
+        "ip": "87.250.250.54"
     },
     {
-        "hostname": "metrika.yandex.ru"
+        "hostname": "metrika.yandex.ru",
+        "ip": "77.88.55.60"
     },
     {
-        "hostname": "webmaster.yandex.ru"
+        "hostname": "webmaster.yandex.ru",
+        "ip": "87.250.250.56"
     },
     {
-        "hostname": "ads.yandex.ru"
+        "hostname": "ads.yandex.ru",
+        "ip": "77.88.55.62"
     },
     {
-        "hostname": "market.yandex.ru"
+        "hostname": "market.yandex.ru",
+        "ip": "87.250.250.58"
     },
     {
-        "hostname": "lavka.yandex.ru"
+        "hostname": "lavka.yandex.ru",
+        "ip": "87.250.250.60"
     },
     {
-        "hostname": "eda.yandex.ru"
+        "hostname": "eda.yandex.ru",
+        "ip": "87.250.250.62"
     },
     {
-        "hostname": "delivery.yandex.ru"
+        "hostname": "delivery.yandex.ru",
+        "ip": "87.250.250.64"
     },
     {
-        "hostname": "maps.yandex.ru"
+        "hostname": "maps.yandex.ru",
+        "ip": "87.250.250.66"
     },
     {
-        "hostname": "navigator.yandex.ru"
+        "hostname": "navigator.yandex.ru",
+        "ip": "87.250.250.68"
     },
     {
-        "hostname": "metro.yandex.ru"
+        "hostname": "metro.yandex.ru",
+        "ip": "87.250.250.70"
     },
     {
-        "hostname": "music.yandex.ru"
+        "hostname": "music.yandex.ru",
+        "ip": "87.250.250.72"
     },
     {
-        "hostname": "afisha.yandex.ru"
+        "hostname": "afisha.yandex.ru",
+        "ip": "87.250.250.74"
     },
     {
-        "hostname": "video.yandex.ru"
+        "hostname": "video.yandex.ru",
+        "ip": "87.250.250.76"
     },
     {
-        "hostname": "kino.yandex.ru"
+        "hostname": "kino.yandex.ru",
+        "ip": "87.250.250.78"
     },
     {
-        "hostname": "news.yandex.ru"
+        "hostname": "news.yandex.ru",
+        "ip": "87.250.250.80"
     },
     {
-        "hostname": "zen.yandex.ru"
+        "hostname": "zen.yandex.ru",
+        "ip": "87.250.250.82"
     },
     {
-        "hostname": "cloud.yandex.ru"
+        "hostname": "cloud.yandex.ru",
+        "ip": "87.250.250.84"
     },
     {
-        "hostname": "compute.yandex.ru"
+        "hostname": "compute.yandex.ru",
+        "ip": "87.250.250.86"
     },
     {
-        "hostname": "storage.yandex.ru"
+        "hostname": "storage.yandex.ru",
+        "ip": "87.250.250.88"
     },
     {
-        "hostname": "browser.yandex.ru"
+        "hostname": "browser.yandex.ru",
+        "ip": "87.250.250.90"
     },
     {
-        "hostname": "translate.yandex.ru"
+        "hostname": "translate.yandex.ru",
+        "ip": "87.250.250.92"
     },
     {
-        "hostname": "images.yandex.ru"
+        "hostname": "images.yandex.ru",
+        "ip": "87.250.250.94"
     },
     {
-        "hostname": "q.yandex.ru"
+        "hostname": "q.yandex.ru",
+        "ip": "87.250.250.96"
     },
     {
-        "hostname": "reviews.yandex.ru"
+        "hostname": "reviews.yandex.ru",
+        "ip": "87.250.250.98"
     },
     {
-        "hostname": "travel.yandex.ru"
+        "hostname": "travel.yandex.ru",
+        "ip": "87.250.250.100"
     },
     {
-        "hostname": "rasp.yandex.ru"
+        "hostname": "rasp.yandex.ru",
+        "ip": "87.250.250.102"
     },
     {
-        "hostname": "taxi.yandex.ru"
+        "hostname": "taxi.yandex.ru",
+        "ip": "87.250.250.104"
     },
     {
-        "hostname": "go.yandex.ru"
+        "hostname": "go.yandex.ru",
+        "ip": "87.250.250.106"
     },
     {
-        "hostname": "360.yandex.ru"
+        "hostname": "360.yandex.ru",
+        "ip": "87.250.250.108"
     },
     {
-        "hostname": "telemost.yandex.ru"
+        "hostname": "telemost.yandex.ru",
+        "ip": "87.250.250.110"
     },
     {
-        "hostname": "docs.yandex.ru"
+        "hostname": "docs.yandex.ru",
+        "ip": "87.250.250.112"
     },
     {
-        "hostname": "wiki.yandex.ru"
+        "hostname": "wiki.yandex.ru",
+        "ip": "87.250.250.114"
     },
     {
-        "hostname": "forms.yandex.ru"
+        "hostname": "forms.yandex.ru",
+        "ip": "87.250.250.116"
     },
     {
-        "hostname": "games.yandex.ru"
+        "hostname": "games.yandex.ru",
+        "ip": "87.250.250.118"
     },
     {
-        "hostname": "api.yandex.ru"
+        "hostname": "api.yandex.ru",
+        "ip": "87.250.250.120"
     },
     {
-        "hostname": "oauth.yandex.ru"
+        "hostname": "oauth.yandex.ru",
+        "ip": "87.250.250.122"
     },
     {
-        "hostname": "mc.yandex.ru"
+        "hostname": "mc.yandex.ru",
+        "ip": "87.250.250.124"
     },
     {
-        "hostname": "yabs.yandex.ru"
+        "hostname": "yabs.yandex.ru",
+        "ip": "87.250.250.126"
     },
     {
-        "hostname": "an.yandex.ru"
+        "hostname": "an.yandex.ru",
+        "ip": "87.250.250.128"
     },
     {
-        "hostname": "rkn.gov.ru"
+        "hostname": "rkn.gov.ru",
+        "ip": "178.215.242.46"
     },
     {
-        "hostname": "digital.gov.ru"
+        "hostname": "digital.gov.ru",
+        "ip": "178.215.242.44"
     },
     {
-        "hostname": "kremlin.ru"
+        "hostname": "kremlin.ru",
+        "ip": "193.232.226.43"
     },
     {
-        "hostname": "government.ru"
+        "hostname": "government.ru",
+        "ip": "193.232.226.44"
     },
     {
-        "hostname": "council.gov.ru"
+        "hostname": "council.gov.ru",
+        "ip": "193.232.226.45"
     },
     {
-        "hostname": "duma.gov.ru"
+        "hostname": "duma.gov.ru",
+        "ip": "193.232.226.46"
     },
     {
-        "hostname": "ksrf.ru"
+        "hostname": "ksrf.ru",
+        "ip": "193.232.226.47"
     },
     {
-        "hostname": "vsrf.ru"
+        "hostname": "vsrf.ru",
+        "ip": "193.232.226.48"
     },
     {
-        "hostname": "arbitr.ru"
+        "hostname": "arbitr.ru",
+        "ip": "193.232.226.49"
     },
     {
-        "hostname": "pravo.gov.ru"
+        "hostname": "pravo.gov.ru",
+        "ip": "178.215.242.48"
     },
     {
-        "hostname": "kad.arbitr.ru"
+        "hostname": "kad.arbitr.ru",
+        "ip": "193.232.226.51"
     },
     {
-        "hostname": "sudrf.ru"
+        "hostname": "sudrf.ru",
+        "ip": "193.232.226.52"
     },
     {
-        "hostname": "nalog.ru"
+        "hostname": "nalog.ru",
+        "ip": "178.215.242.50"
     },
     {
-        "hostname": "mchs.gov.ru"
+        "hostname": "mchs.gov.ru",
+        "ip": "178.215.242.52"
     },
     {
-        "hostname": "fssprus.ru"
+        "hostname": "fssprus.ru",
+        "ip": "178.215.242.54"
     },
     {
-        "hostname": "pfrf.ru"
+        "hostname": "pfrf.ru",
+        "ip": "178.215.242.56"
     },
     {
-        "hostname": "rosreestr.ru"
+        "hostname": "rosreestr.ru",
+        "ip": "178.215.242.58"
     },
     {
-        "hostname": "mvd.ru"
+        "hostname": "mvd.ru",
+        "ip": "178.215.242.60"
     },
     {
-        "hostname": "mil.ru"
+        "hostname": "mil.ru",
+        "ip": "178.215.242.62"
     },
     {
-        "hostname": "rospotrebnadzor.ru"
+        "hostname": "rospotrebnadzor.ru",
+        "ip": "178.215.242.64"
     },
     {
-        "hostname": "rosminzdrav.ru"
+        "hostname": "rosminzdrav.ru",
+        "ip": "178.215.242.66"
     },
     {
-        "hostname": "cbr.ru"
+        "hostname": "cbr.ru",
+        "ip": "178.215.242.68"
     },
     {
-        "hostname": "gks.ru"
+        "hostname": "gks.ru",
+        "ip": "178.215.242.70"
     },
     {
-        "hostname": "fss.ru"
+        "hostname": "fss.ru",
+        "ip": "178.215.242.72"
     },
     {
-        "hostname": "sledcom.ru"
+        "hostname": "sledcom.ru",
+        "ip": "178.215.242.74"
     },
     {
-        "hostname": "genproc.gov.ru"
+        "hostname": "genproc.gov.ru",
+        "ip": "178.215.242.76"
     },
     {
-        "hostname": "cikrf.ru"
+        "hostname": "cikrf.ru",
+        "ip": "178.215.242.78"
     },
     {
-        "hostname": "mkrf.ru"
+        "hostname": "mkrf.ru",
+        "ip": "178.215.242.80"
     },
     {
-        "hostname": "minobrnauki.ru"
+        "hostname": "minobrnauki.ru",
+        "ip": "178.215.242.82"
     },
     {
-        "hostname": "edu.gov.ru"
+        "hostname": "edu.gov.ru",
+        "ip": "178.215.242.84"
     },
     {
-        "hostname": "pnp.ru"
+        "hostname": "pnp.ru",
+        "ip": "178.215.242.86"
     },
     {
-        "hostname": "roszdravnadzor.ru"
+        "hostname": "roszdravnadzor.ru",
+        "ip": "178.215.242.88"
     },
     {
-        "hostname": "futurerussia.gov.ru"
+        "hostname": "futurerussia.gov.ru",
+        "ip": "178.215.242.90"
     },
     {
-        "hostname": "notariat.ru"
+        "hostname": "notariat.ru",
+        "ip": "178.215.242.92"
     },
     {
-        "hostname": "rostrud.ru"
+        "hostname": "rostrud.ru",
+        "ip": "178.215.242.94"
     },
     {
-        "hostname": "audit.gov.ru"
+        "hostname": "audit.gov.ru",
+        "ip": "178.215.242.96"
     },
     {
-        "hostname": "ombudsmanrf.org"
+        "hostname": "ombudsmanrf.org",
+        "ip": "178.215.242.98"
     },
     {
-        "hostname": "fmbaros.ru"
+        "hostname": "fmbaros.ru",
+        "ip": "178.215.242.100"
     },
     {
-        "hostname": "pochta.ru"
+        "hostname": "pochta.ru",
+        "ip": "178.215.242.102"
     },
     {
-        "hostname": "minfin.ru"
+        "hostname": "minfin.ru",
+        "ip": "178.215.242.104"
     },
     {
-        "hostname": "economy.gov.ru"
+        "hostname": "economy.gov.ru",
+        "ip": "178.215.242.106"
     },
     {
-        "hostname": "cea.gov.ru"
+        "hostname": "cea.gov.ru",
+        "ip": "178.215.242.108"
     },
     {
-        "hostname": "stat.hse.ru"
+        "hostname": "stat.hse.ru",
+        "ip": "178.215.242.110"
     },
     {
-        "hostname": "scrf.gov.ru"
+        "hostname": "scrf.gov.ru",
+        "ip": "178.215.242.112"
     },
     {
-        "hostname": "supcourt.ru"
+        "hostname": "supcourt.ru",
+        "ip": "178.215.242.114"
     },
     {
-        "hostname": "fsb.ru"
+        "hostname": "fsb.ru",
+        "ip": "178.215.242.116"
     },
     {
-        "hostname": "fps.ru"
+        "hostname": "fps.ru",
+        "ip": "178.215.242.118"
     },
     {
-        "hostname": "mid.ru"
+        "hostname": "mid.ru",
+        "ip": "178.215.242.120"
     },
     {
-        "hostname": "mvdinform.ru"
+        "hostname": "mvdinform.ru",
+        "ip": "178.215.242.122"
     },
     {
-        "hostname": "minjust.ru"
+        "hostname": "minjust.ru",
+        "ip": "178.215.242.124"
     },
     {
-        "hostname": "mintrans.ru"
+        "hostname": "mintrans.ru",
+        "ip": "178.215.242.126"
     },
     {
-        "hostname": "minprom.gov.ru"
+        "hostname": "minprom.gov.ru",
+        "ip": "178.215.242.128"
     },
     {
-        "hostname": "rosculture.ru"
+        "hostname": "rosculture.ru",
+        "ip": "178.215.242.130"
     },
     {
-        "hostname": "mzsrrf.ru"
+        "hostname": "mzsrrf.ru",
+        "ip": "178.215.242.132"
     },
     {
-        "hostname": "minsvyaz.ru"
+        "hostname": "minsvyaz.ru",
+        "ip": "178.215.242.134"
     },
     {
-        "hostname": "ed.gov.ru"
+        "hostname": "ed.gov.ru",
+        "ip": "178.215.242.136"
     }
 ]
