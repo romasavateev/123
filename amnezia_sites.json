@@ -1,0 +1,422 @@
+[
+    {
+        "hostname": "gosuslugi.ru"
+    },
+    {
+        "hostname": "esia.gosuslugi.ru"
+    },
+    {
+        "hostname": "gov.ru"
+    },
+    {
+        "hostname": "dnevnik.ru"
+    },
+    {
+        "hostname": "login.dnevnik.ru"
+    },
+    {
+        "hostname": "avito.ru"
+    },
+    {
+        "hostname": "avito.st"
+    },
+    {
+        "hostname": "ozon.ru"
+    },
+    {
+        "hostname": "wildberries.ru"
+    },
+    {
+        "hostname": "aliexpress.ru"
+    },
+    {
+        "hostname": "hh.ru"
+    },
+    {
+        "hostname": "dzen.ru"
+    },
+    {
+        "hostname": "vk.com"
+    },
+    {
+        "hostname": "id.vk.com"
+    },
+    {
+        "hostname": "login.vk.com"
+    },
+    {
+        "hostname": "vkvideo.ru"
+    },
+    {
+        "hostname": "ok.ru"
+    },
+    {
+        "hostname": "rutube.ru"
+    },
+    {
+        "hostname": "rp5.ru"
+    },
+    {
+        "hostname": "yandex.ru"
+    },
+    {
+        "hostname": "ya.ru"
+    },
+    {
+        "hostname": "mail.ru"
+    },
+    {
+        "hostname": "smtp.yandex.ru"
+    },
+    {
+        "hostname": "smtp.yandex.com"
+    },
+    {
+        "hostname": "imap.yandex.ru"
+    },
+    {
+        "hostname": "imap.yandex.com"
+    },
+    {
+        "hostname": "direct.yandex.ru"
+    },
+    {
+        "hostname": "mail.yandex.ru"
+    },
+    {
+        "hostname": "disk.yandex.ru"
+    },
+    {
+        "hostname": "calendar.yandex.ru"
+    },
+    {
+        "hostname": "contacts.yandex.ru"
+    },
+    {
+        "hostname": "passport.yandex.ru"
+    },
+    {
+        "hostname": "id.yandex.ru"
+    },
+    {
+        "hostname": "tbank.ru"
+    },
+    {
+        "hostname": "id.tbank.ru"
+    },
+    {
+        "hostname": "smo.tbank.ru"
+    },
+    {
+        "hostname": "sme.tbank.ru"
+    },
+    {
+        "hostname": "business.tbank.ru"
+    },
+    {
+        "hostname": "reg.ru"
+    },
+    {
+        "hostname": "nic.ru"
+    },
+    {
+        "hostname": "webnames.ru"
+    },
+    {
+        "hostname": "sweb.ru"
+    },
+    {
+        "hostname": "webhost1.ru"
+    },
+    {
+        "hostname": "admin.yandex.ru"
+    },
+    {
+        "hostname": "connect.yandex.ru"
+    },
+    {
+        "hostname": "metrika.yandex.ru"
+    },
+    {
+        "hostname": "webmaster.yandex.ru"
+    },
+    {
+        "hostname": "ads.yandex.ru"
+    },
+    {
+        "hostname": "market.yandex.ru"
+    },
+    {
+        "hostname": "lavka.yandex.ru"
+    },
+    {
+        "hostname": "eda.yandex.ru"
+    },
+    {
+        "hostname": "delivery.yandex.ru"
+    },
+    {
+        "hostname": "maps.yandex.ru"
+    },
+    {
+        "hostname": "navigator.yandex.ru"
+    },
+    {
+        "hostname": "metro.yandex.ru"
+    },
+    {
+        "hostname": "music.yandex.ru"
+    },
+    {
+        "hostname": "afisha.yandex.ru"
+    },
+    {
+        "hostname": "video.yandex.ru"
+    },
+    {
+        "hostname": "kino.yandex.ru"
+    },
+    {
+        "hostname": "news.yandex.ru"
+    },
+    {
+        "hostname": "zen.yandex.ru"
+    },
+    {
+        "hostname": "cloud.yandex.ru"
+    },
+    {
+        "hostname": "compute.yandex.ru"
+    },
+    {
+        "hostname": "storage.yandex.ru"
+    },
+    {
+        "hostname": "browser.yandex.ru"
+    },
+    {
+        "hostname": "translate.yandex.ru"
+    },
+    {
+        "hostname": "images.yandex.ru"
+    },
+    {
+        "hostname": "q.yandex.ru"
+    },
+    {
+        "hostname": "reviews.yandex.ru"
+    },
+    {
+        "hostname": "travel.yandex.ru"
+    },
+    {
+        "hostname": "rasp.yandex.ru"
+    },
+    {
+        "hostname": "taxi.yandex.ru"
+    },
+    {
+        "hostname": "go.yandex.ru"
+    },
+    {
+        "hostname": "360.yandex.ru"
+    },
+    {
+        "hostname": "telemost.yandex.ru"
+    },
+    {
+        "hostname": "docs.yandex.ru"
+    },
+    {
+        "hostname": "wiki.yandex.ru"
+    },
+    {
+        "hostname": "forms.yandex.ru"
+    },
+    {
+        "hostname": "games.yandex.ru"
+    },
+    {
+        "hostname": "api.yandex.ru"
+    },
+    {
+        "hostname": "oauth.yandex.ru"
+    },
+    {
+        "hostname": "mc.yandex.ru"
+    },
+    {
+        "hostname": "yabs.yandex.ru"
+    },
+    {
+        "hostname": "an.yandex.ru"
+    },
+    {
+        "hostname": "rkn.gov.ru"
+    },
+    {
+        "hostname": "digital.gov.ru"
+    },
+    {
+        "hostname": "kremlin.ru"
+    },
+    {
+        "hostname": "government.ru"
+    },
+    {
+        "hostname": "council.gov.ru"
+    },
+    {
+        "hostname": "duma.gov.ru"
+    },
+    {
+        "hostname": "ksrf.ru"
+    },
+    {
+        "hostname": "vsrf.ru"
+    },
+    {
+        "hostname": "arbitr.ru"
+    },
+    {
+        "hostname": "pravo.gov.ru"
+    },
+    {
+        "hostname": "kad.arbitr.ru"
+    },
+    {
+        "hostname": "sudrf.ru"
+    },
+    {
+        "hostname": "nalog.ru"
+    },
+    {
+        "hostname": "mchs.gov.ru"
+    },
+    {
+        "hostname": "fssprus.ru"
+    },
+    {
+        "hostname": "pfrf.ru"
+    },
+    {
+        "hostname": "rosreestr.ru"
+    },
+    {
+        "hostname": "mvd.ru"
+    },
+    {
+        "hostname": "mil.ru"
+    },
+    {
+        "hostname": "rospotrebnadzor.ru"
+    },
+    {
+        "hostname": "rosminzdrav.ru"
+    },
+    {
+        "hostname": "cbr.ru"
+    },
+    {
+        "hostname": "gks.ru"
+    },
+    {
+        "hostname": "fss.ru"
+    },
+    {
+        "hostname": "sledcom.ru"
+    },
+    {
+        "hostname": "genproc.gov.ru"
+    },
+    {
+        "hostname": "cikrf.ru"
+    },
+    {
+        "hostname": "mkrf.ru"
+    },
+    {
+        "hostname": "minobrnauki.ru"
+    },
+    {
+        "hostname": "edu.gov.ru"
+    },
+    {
+        "hostname": "pnp.ru"
+    },
+    {
+        "hostname": "roszdravnadzor.ru"
+    },
+    {
+        "hostname": "futurerussia.gov.ru"
+    },
+    {
+        "hostname": "notariat.ru"
+    },
+    {
+        "hostname": "rostrud.ru"
+    },
+    {
+        "hostname": "audit.gov.ru"
+    },
+    {
+        "hostname": "ombudsmanrf.org"
+    },
+    {
+        "hostname": "fmbaros.ru"
+    },
+    {
+        "hostname": "pochta.ru"
+    },
+    {
+        "hostname": "minfin.ru"
+    },
+    {
+        "hostname": "economy.gov.ru"
+    },
+    {
+        "hostname": "cea.gov.ru"
+    },
+    {
+        "hostname": "stat.hse.ru"
+    },
+    {
+        "hostname": "scrf.gov.ru"
+    },
+    {
+        "hostname": "supcourt.ru"
+    },
+    {
+        "hostname": "fsb.ru"
+    },
+    {
+        "hostname": "fps.ru"
+    },
+    {
+        "hostname": "mid.ru"
+    },
+    {
+        "hostname": "mvdinform.ru"
+    },
+    {
+        "hostname": "minjust.ru"
+    },
+    {
+        "hostname": "mintrans.ru"
+    },
+    {
+        "hostname": "minprom.gov.ru"
+    },
+    {
+        "hostname": "rosculture.ru"
+    },
+    {
+        "hostname": "mzsrrf.ru"
+    },
+    {
+        "hostname": "minsvyaz.ru"
+    },
+    {
+        "hostname": "ed.gov.ru"
+    }
+]
